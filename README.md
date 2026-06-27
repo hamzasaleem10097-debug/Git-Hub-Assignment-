@@ -1,5 +1,1 @@
-Name : Hamza Saleem
-Roll No : 0030
-Program: BSAI
-Semester:1
-Goals: Web Developer 
+My Name is Hamza Saleem . I am studying BsAi. My Goal is to become best Web developer 
